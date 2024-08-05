@@ -10,6 +10,7 @@
 <svelte:head>
 	<title>{Name}</title>
 	<link rel="icon" href={profilePicture} />
+	<script defer data-domain="aarshpadia.tech" src="https://plausible.io/js/script.js"></script>
 </svelte:head>
 
 <div class="relative min-h-screen text-cat_text">
